@@ -6,7 +6,7 @@
 import battle
 
 def main():
-    battle.battle()
+    battle.main()
 
 if __name__ == "__main__":
     main()

@@ -1,3 +1,3 @@
 # poke_battle_sim
 #
-# This is a project.
+# This project that holds contains a GEN 1 Pokemon battle simulator.

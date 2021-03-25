@@ -3,21 +3,45 @@
 #
 # This file contains data for the battle simulation.
 
-import hydrate_pokemon
-
-def is_valid_string(input):
-    pass
-
-def start_sequence():
-    print('Welcome to the Pokemon Battle Simulator.')
-    print('Please enter the names of three pokemon that you want to fight with.')
-    pokemon1 = input("Enter the name and level of your first Pokemon: ")
-    hydrate_pokemon.get_pokemon(pokemon1)
-    pokemon2 = input("Enter the name and level of your second Pokemon: ")
-    hydrate_pokemon.get_pokemon(pokemon2)
-    pokemon3 = input("Enter the name and level of your third Pokemon: ")
-    hydrate_pokemon.get_pokemon(pokemon3)
+import hydrate
+import ui
+import teams
 
 
-def battle():
-    start_sequence()
+def battle(user, opponent):
+    num_alive_user = len(user)
+    num_alive_opponent = len(opponent)
+    curr_user_pokemon = user[0]
+    curr_opponent_pokemon = opponent[0]
+
+    print('An anonymous trainer has challenged you to a battle!')
+    ui.sendout_message(False, opponent[0].name)
+    ui.sendout_message(True, user[0].name)
+
+    while True:
+        print('\n')
+        ui.print_health(curr_user_pokemon, curr_opponent_pokemon)
+        command = input('| Fight | Pokemon | Quit | : ')
+        if command == 'Quit':
+            break
+        if command == 'Pokemon':
+            ui.display_team(user, 'YOUR', True)
+            while True:
+                input('What pokemon do you want to switch to? (or type \'back\'): ')
+        if command == 'Fight':
+            break
+
+
+def main():
+    print('Welcome to the Pokemon Battle Simulator!')
+    print('\n')
+    user_team = hydrate.team(teams.get_user_team())
+    opponent_team = hydrate.team(teams.get_opponent_team())
+    ui.display_team(user_team, 'YOUR', False)
+    ui.display_team(opponent_team, 'OPPONENT\'s', False)
+    battle(user_team, opponent_team)
+    print('Thanks for playing the Pokemon Battle Simulator. Shutting down...')
+
+
+if __name__ == "__main__":
+    main()
