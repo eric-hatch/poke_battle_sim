@@ -1,0 +1,215 @@
+Alakazam
+- Psychic
+- Seismic Toss
+- Thunder Wave
+- Recover
+
+Chansey
+- Reflect
+- Seismic Toss
+- Soft-Boiled
+- Thunder Wave
+
+Cloyster
+- Clamp
+- Blizzard
+- Rest
+- Explosion
+
+Exeggutor
+- Sleep Powder
+- Psychic
+- Explosion
+- Double-Edge
+
+Gengar
+- Hypnosis
+- Night Shade
+- Thunderbolt
+- Explosion
+
+Jolteon
+- Thunder Wave
+- Thunderbolt
+- Double Kick
+- Rest
+
+Jynx
+- Lovely Kiss
+- Blizzard
+- Psychic
+- Rest
+
+Lapras
+- Blizzard
+- Thunderbolt
+- Hyper Beam
+- Sing
+
+Rhydon
+- Earthquake
+- Rock Slide
+- Body Slam
+- Substitute
+
+Slowbro
+- Amnesia
+- Surf
+- Thunder Wave
+- Rest
+
+Snorlax
+- Body Slam
+- Reflect
+- Rest
+- Ice Beam
+
+Starmie
+- Recover
+- Thunder Wave
+- Blizzard
+- Psychic
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Blizzard
+- Earthquake
+
+Victreebel
+- Sleep Powder
+- Wrap
+- Razor Leaf
+- Stun Spore
+
+Zapdos
+- Thunderbolt
+- Drill Peck
+- Thunder Wave
+- Agility
+
+Arbok
+- Glare
+- Wrap
+- Earthquake
+- Hyper Beam
+
+Articuno
+- Blizzard
+- Agility
+- Double-Edge
+- Hyper Beam
+
+Charizard
+- Fire Blast
+- Earthquake
+- Swords Dance
+- Body Slam
+
+Clefable
+- Blizzard
+- Body Slam
+- Hyper Beam
+- Thunderbolt
+
+Dragonite
+- Agility
+- Wrap
+- Hyper Beam
+- Surf
+
+Flareon
+- Fire Blast
+- Body Slam
+- Hyper Beam
+- Fire Spin
+
+Golem
+- Earthquake
+- Rock Slide
+- Explosion
+- Body Slam
+
+Gyarados
+- Blizzard
+- Thunderbolt
+- Body Slam
+- Hyper Beam
+
+Hypno
+- Psychic
+- Rest
+- Thunder Wave
+- Seismic Toss
+
+Kangaskhan
+- Body Slam
+- Hyper Beam
+- Earthquake
+- Surf
+
+Kingler
+- Swords Dance
+- Hyper Beam
+- Body Slam
+- Crabhammer
+
+Machamp
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Submission
+
+Moltres
+- Agility
+- Fire Blast
+- Fire Spin
+- Hyper Beam
+
+Nidoking
+- Earthquake
+- Blizzard
+- Thunder
+- Body Slam
+
+Ninetales
+- Fire Blast
+- Body Slam
+- Confuse Ray
+- Fire Spin
+
+Persian
+- Slash
+- Bubble Beam
+- Hyper Beam
+- Thunderbolt
+
+Pinsir
+- Swords Dance
+- Hyper Beam
+- Slash
+- Submission
+
+Poliwrath
+- Hypnosis
+- Amnesia
+- Surf
+- Submission
+
+Porygon
+- Ice Beam
+- Thunderbolt
+- Thunder Wave
+- Recover
+
+Sandslash
+- Earthquake
+- Swords Dance
+- Hyper Beam
+- Substitute
+
+Venusaur
+- Razor Leaf
+- Sleep Powder
+- Swords Dance
+- Body Slam
